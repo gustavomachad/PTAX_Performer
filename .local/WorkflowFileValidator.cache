@@ -1,0 +1,10 @@
+Framework/CloseAllApplications.xaml|638869745880000000
+Framework/RetryCurrentTransaction.xaml|638869745880000000
+Framework/TakeScreenshot.xaml|638869745880000000
+Framework/InitAllApplications.xaml|638972703538803478
+Framework/InitAllSettings.xaml|638869745880000000
+Framework/KillAllProcesses.xaml|638972755388274630
+Framework/GetTransactionData.xaml|638972703550634345
+Framework/SetTransactionStatus.xaml|638869745880000000
+Main.xaml|638972755656237693
+Framework/Process.xaml|638972735836686413

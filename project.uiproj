@@ -1,0 +1,6 @@
+{
+  "Name": "PTAX_Performer",
+  "ProjectType": "Process",
+  "Description": "Performer para escrever o CSV.",
+  "MainFile": "Main.xaml"
+}
